@@ -1,8 +1,7 @@
 import java.util.Scanner;
 
-public class PrimeNumbersInRange {
+public class _01_PrimeNumbersInRange {
 
-    // Method to check if a number is prime
     static boolean isPrime(int num) {
         if (num <= 1) {
             return false;
